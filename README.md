@@ -1,6 +1,6 @@
 # Follow the below and execute on by one.
 ## Clone the repo
-!git clone https://github.com/towhidultonmoy/code_generation.git
+!git clone https://github.com/amelamedolli/full_examples.git
 
 ## Install the libraries
 !pip install  --upgrade "transformers"   "datasets"  "accelerate"  "evaluate"  "bitsandbytes"  "trl"  "peft"
